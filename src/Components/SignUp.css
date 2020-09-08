@@ -1,0 +1,17 @@
+.container{
+    position: absolute;
+    top:20%;
+    left: 40%;
+
+}
+label{
+    width: 140px;
+    display: inline-block;
+}
+
+.input-container{
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+}
